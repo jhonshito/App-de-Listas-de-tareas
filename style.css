@@ -1,0 +1,9 @@
+
+.contenedor{
+    max-height: 1000000px;
+}
+
+p{
+    width: 350px;
+    word-wrap: break-word;
+}
